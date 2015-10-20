@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Jason's first blog piece"
 date: 2015-10-19
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+I have an interesting paper to share with you []
+[Elite Recruitment and Political Stability: The Impact of the Abolition of China's Civil Service Exam](https://drive.google.com/file/d/0B_IGNeKdKFQxOF9ZdUJYTklDY3c/view) 
