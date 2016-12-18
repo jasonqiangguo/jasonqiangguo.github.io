@@ -7,7 +7,6 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    background-color: #505050;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -16,7 +15,7 @@ nav ul li, footer ul li {
 
 nav ul li a, footer ul li a {
     text-decoration: none;
-    color: #FFFFFF;
+    color: #000000;
 }
 
 a {
